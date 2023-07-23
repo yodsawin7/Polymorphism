@@ -4,7 +4,7 @@ Cow ngna = new Cow();
 Duck donald = new Duck();
 Pig piglet = new Pig();
 Owl hedwig = new Owl();
-Duck daisy = new Duck();
+Duck daisy = new PekingDuck();
 donald.clean(ngna);
 donald.clean(piglet);
 donald.clean(hedwig);
